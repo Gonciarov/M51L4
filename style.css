@@ -20,6 +20,10 @@ body {
    ul {
 	list-style: none;
    }
+
+   li {
+	display: inline-block;
+   }
    
    
    img {
