@@ -27,8 +27,7 @@ body {
    
    
    img {
-	width: 200px;
-	height: 300px;
+	width: 60%;
 	border-radius: 5px;
    }
 
@@ -68,7 +67,7 @@ body {
   }
 
 iframe {
-	width: 90%;
+	width: 60%;
 	height: 300px;
     border-radius: 5px; 
     background-color: lightgreen; 
